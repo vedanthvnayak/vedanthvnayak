@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vedanthvnayak
 - 👀 I’m interested in python coding,quantum physics and computing.
-- 🌱 I’m currently learning BE
+- 🌱 I’m currently learning BE in computer science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vedanthv999@gmail.com
 
