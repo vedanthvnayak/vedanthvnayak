@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/vedanthvnayakDenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vedanthvnayak&theme=hacker)](https://git.io/streak-stats)
 
 - 👋 Hi, I’m @vedanthvnayak
 - 👀 I’m interested in linux, opensource, python coding,software testing, quantum physics and quantum computing.
