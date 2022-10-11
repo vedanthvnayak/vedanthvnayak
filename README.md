@@ -1,3 +1,6 @@
+<!---
+##my status
+--->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vedanthvnayak&theme=hacker)](https://git.io/streak-stats)
 
 - 👋 Hi, I’m @vedanthvnayak
