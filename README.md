@@ -6,7 +6,10 @@
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=vedanthvnayak)](https://holopin.io/@rphi)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vedanthvnayak&theme=hacker)](https://git.io/streak-stats)
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+![](https://komarev.com/ghpvc/?username=vedanthvnayak)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 - 👋 Hi, I’m @vedanthvnayak
 - 👀 I’m interested in linux, opensource, python coding,software testing, quantum physics and quantum computing.
 - 🌱 I’m currently learning BE in computer science 
