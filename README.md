@@ -6,8 +6,9 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 [![@vedanthvnayak's Holopin board](https://holopin.me/vedanthvnayak)](https://holopin.io/@vedanthvnayak)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vedanthvnayak&theme=hacker)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=vedanthvnayak&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="My GitHub Stats">
+
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=vedanthvnayak&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My GitHub Streak Stats"><img src="https://github-readme-stats.vercel.app/api?username=vedanthvnayak&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="My GitHub Stats">
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 - 👋 Hi, I’m @vedanthvnayak
