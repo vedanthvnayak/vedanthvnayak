@@ -2,7 +2,7 @@
 ##my status
 --->
 # HELLO, FOLKS 👋
-!(https://komarev.com/ghpvc/?username=vedanthvnayak&color=brightgreen)
+[!(https://komarev.com/ghpvc/?username=vedanthvnayak&color=brightgreen)]
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 [![@vedanthvnayak's Holopin board](https://holopin.me/vedanthvnayak)](https://holopin.io/@vedanthvnayak)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
