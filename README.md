@@ -3,7 +3,7 @@
 --->
 # HELLO, FOLKS 👋
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=vedanthvnayak)](https://holopin.io/@rphi)
+![@rphi's Holopin board](https://holopin.io/api/user/board?user=vedanthvnayak)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vedanthvnayak&theme=hacker)](https://git.io/streak-stats)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
