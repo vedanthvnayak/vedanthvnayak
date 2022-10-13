@@ -4,8 +4,7 @@
 # HELLO, FOLKS 👋
 ![](https://komarev.com/ghpvc/?username=vedanthvnayak&color=brightgreen&styl=plastic)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-[![@vedanthvnayak's Holopin board](https://holopin.me/vedanthvnayak)](https://holopin.io/@vedanthvnayak)
-
+## DIGITAL BADGES:[![@vedanthvnayak's Holopin board](https://holopin.me/vedanthvnayak)](https://holopin.io/@vedanthvnayak)
 - 👋 Hi, I’m @vedanthvnayak
 - 👀 I’m interested in linux, opensource, python coding,software testing, quantum physics and quantum computing.
 - 🌱 I’m currently learning BE in computer science 
