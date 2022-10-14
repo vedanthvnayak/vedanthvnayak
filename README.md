@@ -35,7 +35,10 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanthvnayak&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanthvnayak&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true" /><br/><br/><br/><br/><br/><br/>
+
+
+
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=vedanthvnayak&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
 
 <!---
