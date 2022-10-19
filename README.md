@@ -40,7 +40,8 @@
 
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=vedanthvnayak&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
 
+
 <!---
-vedanthvnayak/vedanthvnayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m going to vedanthvnayak/vedanthvnayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
