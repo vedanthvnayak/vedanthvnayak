@@ -3,6 +3,7 @@
 --->
 # HELLO, FOLKS 👋
 ![](https://komarev.com/ghpvc/?username=vedanthvnayak&color=brightgreen&styl=plastic)
+<iframe src="https://api.badgr.io/public/assertions/srMG1VLxRVOvQgCkMnh99g?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=vedanthv999%40gmail.com" title="Badge: Postman API Fundamentals Student Expert" style="width: 330px; height: 191px; border: 0px;"></iframe>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DIGITAL BADGES:[![@vedanthvnayak's Holopin board](https://holopin.me/vedanthvnayak)](https://holopin.io/@vedanthvnayak)
 - 👋 Hi, I’m @vedanthvnayak
